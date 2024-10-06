@@ -1,8 +1,5 @@
-Below is a detailed `README.md` file for your **Vacation Planner** app project. This file will help you explain the project, its features, how to set it up, and contribute to it. Feel free to modify it according to the specific details of your implementation:
 
----
-
-# 📱 Vacation Planner - Flutter App
+# 📱 Vacation Planner - a Flutter Application
 
 ### Plan your perfect vacation with ease! This app helps users create personalized itineraries based on their preferences, destination, and travel time using **Google Maps API** and **ChatGPT API**.
 
